@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Bai2/Bai2.csproj" />
+  <Project Path="BaiTapThietKeForm/BaiTapThietKeForm.csproj" />
+  <Project Path="BaiThucHanhBuoi1/BaiThucHanhBuoi1.csproj" />
+</Solution>
